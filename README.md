@@ -6,7 +6,7 @@
 Template Literals. String Interpolation
 ## 1).map function: The map() strategy makes another exhibit with the consequences of calling a capacity for each cluster component. The map() technique calls the gave capacity once to every component in a cluster, all together. Note: map() doesn't execute the capacity for cluster components without qualities.
 
-![image of how the .map function works](https://github.com/imdw18013/java_practice/blob/master/Screenshot%20(8).png)
+![image of how the .map function works](https://github.com/RvndrDosanjh/Lab-6/blob/master/Screenshot%20(44).png)
 
 function render() {
   main.innerHTML = tweets.map(tweet => `
