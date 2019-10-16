@@ -4,7 +4,7 @@
 # COMP2112-Lab 6
 ## ES6+ features:
 Template Literals. String Interpolation
-## 1).map function: 
+## 1).map function: The map() strategy makes another exhibit with the consequences of calling a capacity for each cluster component. The map() technique calls the gave capacity once to every component in a cluster, all together. Note: map() doesn't execute the capacity for cluster components without qualities.
 
 function render() {
   main.innerHTML = tweets.map(tweet => `
